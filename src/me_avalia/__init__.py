@@ -1,0 +1,1 @@
+from.settings import CLASS_RATING_EXPIRATION
